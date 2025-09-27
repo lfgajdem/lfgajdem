@@ -12,7 +12,7 @@ I’m a passionate Cybersecurity, Data Analysis, and Network/System Administrati
 
 ---
 
-#### 🧰 Skills
+##### 🧰 Skills
 <details><summary>Hard Skills</summary>
 - Automation
 - AWS
@@ -38,9 +38,8 @@ I’m a passionate Cybersecurity, Data Analysis, and Network/System Administrati
 - Teamwork
 - Troubleshooting
 </details>
----
 
-#### 🏆 Certifications & Achievements
+##### 🏆 Certifications & Achievements
 <details><summary>Details</summary>
 - Advanced System Security Design - University of Colorado System
 - Applied Data Science with Python - University of Michigan
@@ -52,9 +51,8 @@ I’m a passionate Cybersecurity, Data Analysis, and Network/System Administrati
 - RH133 Red Hat Enterprise Linux System Administration - Red Hat
 - RH033 Red Hat Enterprise Linux Essentials - Red Hat
 </details>
----
 
-#### 🌐 Connect with Me
+##### 🌐 Connect with Me
 
 [<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/lfgajdemski)
 [<a href="https://github.com/lfgajdem"><img src="https://img.shields.io/badge/-GitHub-0072b1?&style=for-the-badge&logo=github&logoColor=white" /></a>](https://www.github.com/lfgajdem)
