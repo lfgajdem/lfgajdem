@@ -3,11 +3,9 @@
 I’m a Cybersecurity, Data Analysis, and Network/System Administration professional with a multidisciplinary background.I excel at solving complex technical problems, safeguarding digital environments, and uncovering insights from data.
 
 ---
-
-- **Cybersecurity Specialist**
-- **Data Science**
-- **Network & Systems Administrator**
-
+### Cybersecurity Specialist
+  - **Powershell**
+    - [Check blocked user in all DC]
 ---
 
 #### 🧰 Skills
