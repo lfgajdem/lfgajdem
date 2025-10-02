@@ -5,7 +5,7 @@ I’m a Cybersecurity, Data Analysis, and Network/System Administration professi
 ---
 ### Cybersecurity Specialist
   - **Powershell**
-    - [Check blocked user in all DC]
+    - [Check blocked user in all DC](https://github.com/lfgajdem/)
 ---
 
 #### 🧰 Skills
