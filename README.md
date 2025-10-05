@@ -5,7 +5,7 @@ I’m a Cybersecurity, Data Analysis, and Network/System Administration professi
 ---
 ### Cybersecurity Specialist
   - **Powershell**
-    - [Check blocked user in all DC]([https://github.com/lfgajdem/](https://github.com/lfgajdem/Active-Directory/blob/main/README.md))
+    - [Check blocked user in all DC](https://github.com/lfgajdem/Active-Directory/blob/main/README.md)
   - [ssh hardening](https://github.com/lfgajdem/ssh/blob/main/README.md)
 ---
 
