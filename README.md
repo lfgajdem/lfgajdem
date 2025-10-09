@@ -7,6 +7,9 @@ I’m a Cybersecurity, Data Analysis, and Network/System Administration professi
   - **Powershell**
     - [Check blocked user in all DC](https://github.com/lfgajdem/Active-Directory/blob/main/README.md)
   - [ssh hardening](https://github.com/lfgajdem/ssh/blob/main/README.md)
+
+### Data Science
+  - [Average yield of corn, wheat, oats and rye in Argentina (kg/ha) - Period 1923-2020](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/README.md)
 ---
 
 #### 🧰 Skills
