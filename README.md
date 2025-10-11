@@ -3,6 +3,8 @@
 I’m a Cybersecurity, Data Analysis, and Network/System Administration professional with a multidisciplinary background.I excel at solving complex technical problems, safeguarding digital environments, and uncovering insights from data.
 
 ---
+### AWS
+- [LAMP on an AWS EC2 Linux instance](https://github.com/lfgajdem/LAMP-on-AWS-Linux-Instance/blob/main/README.md)
 ### Cybersecurity Specialist
   - **Powershell**
     - [Check blocked user in all DC](https://github.com/lfgajdem/Active-Directory/blob/main/README.md)
