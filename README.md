@@ -4,7 +4,8 @@ I’m a Cybersecurity, Data Analysis, and Network/System Administration professi
 
 ---
 ### AWS
-- [LAMP on an AWS EC2 Linux instance](https://github.com/lfgajdem/LAMP-on-AWS-Linux-Instance/blob/main/README.md)
+  - [Create an instance in Amazon Web Services (AWS) EC2](https://github.com/lfgajdem/Create-an-Amazon-EC2-instance/blob/main/README.md)
+  - [LAMP on an AWS EC2 Linux instance](https://github.com/lfgajdem/LAMP-on-AWS-Linux-Instance/blob/main/README.md)
 ### Cybersecurity Specialist
   - **Powershell**
     - [Check blocked user in all DC](https://github.com/lfgajdem/Active-Directory/blob/main/README.md)
