@@ -46,7 +46,7 @@ I’m a Cybersecurity, Data Analysis, and Network/System Administration professi
 </details>
 
 ##### Connect with me
-[<a href="https://linkedin.com/in/lfgajdemski"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/lfgajdemski)
+[<a href="https://linkedin.com/en/lfgajdemski/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/lfgajdemski)
 
 <div align=center>
  <a href="https://www.linkedin.com/in/lfgajdemski/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
