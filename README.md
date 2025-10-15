@@ -15,8 +15,37 @@ I’m a Cybersecurity, Data Analysis, and Network/System Administration professi
 ### Data Science
   - [Average yield of corn, wheat, oats and rye in Argentina (kg/ha) - Period 1923-2020](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/README.md)
 ---
+## 🧰 Skills
+#### OS and Infraestructure
 
-#### 🧰 Skills
+#### Languages and Databases
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</span>
+
+### IDE
+<span>
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
+
+---
+## Connect with me
+<div align=left>
+<a href="https://linkedin.com/in/lfgajdemski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lfgajdem@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+---
+
+> “Securing systems, analyzing data, and optimizing networks — one challenge at a time.”
+
+---
+
+## 🧰 Skills
 
 <details>
 <summary>Hard Skills</summary>
@@ -45,19 +74,5 @@ I’m a Cybersecurity, Data Analysis, and Network/System Administration professi
 - Teamwork
 - Troubleshooting
 </details>
-
 ---
-#### Connect with me
-
-<div align=left>
-<a href="https://linkedin.com/in/lfgajdemski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:lfgajdem@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-</div>
-
----
-
-> “Securing systems, analyzing data, and optimizing networks — one challenge at a time.”
-
----
-
 _Thanks for stopping by!_
