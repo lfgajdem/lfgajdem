@@ -10,15 +10,15 @@ I am a cybersecurity, network/system administration and data analysis profession
 
 ---
 ## :open_file_folder: My Repositories
-### AWS
+#### AWS
   - [Create an instance in Amazon Web Services (AWS) EC2](https://github.com/lfgajdem/Create-an-Amazon-EC2-instance/blob/main/README.md)
   - [LAMP on an AWS EC2 Linux instance](https://github.com/lfgajdem/LAMP-on-AWS-Linux-Instance/blob/main/README.md)
-### Cybersecurity Specialist
+#### Cybersecurity Specialist
   - **Powershell**
     - [Check blocked user in all DC](https://github.com/lfgajdem/Active-Directory/blob/main/README.md)
   - [ssh hardening](https://github.com/lfgajdem/ssh/blob/main/README.md)
 
-### Data Science
+#### Data Science
   - [Average yield of corn, wheat, oats and rye in Argentina (kg/ha) - Period 1923-2020](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/README.md)
 ---
 ## 🧰 Skills
@@ -52,7 +52,6 @@ I am a cybersecurity, network/system administration and data analysis profession
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=flat-square&logo=matplotlib&logoColor=fff)
 ![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=flat-square&logo=scrapy&logoColor=d1d2d3)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-
 
 #### IDE
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
