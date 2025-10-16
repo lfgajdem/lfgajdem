@@ -24,7 +24,7 @@ I am a cybersecurity, network/system administration and data analysis profession
 ## 🧰 Skills
 #### IT Infrastucture (Cloud - OS)
 <span>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Amazon-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white">  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white">
