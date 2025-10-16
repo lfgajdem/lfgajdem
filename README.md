@@ -22,23 +22,23 @@ I am a cybersecurity, network/system administration and data analysis profession
   - [Average yield of corn, wheat, oats and rye in Argentina (kg/ha) - Period 1923-2020](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/README.md)
 ---
 ## 🧰 Skills
-#### IT Infrastructure (Cloud - OS)
-<span>
-<img src="https://custom-icon-badges.demolab.com/badge/Amazon-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white">  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
-<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white">
-<img src="https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=KaliLinux&logoColor=white">
-<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white">  
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white">
-<img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white" alt="virtualbox"/>
-</span>
-
-#### Cybersecurity Tools
+#### IT Infrastructure
+![Amazon](https://custom-icon-badges.demolab.com/badge/Amazon-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Red%20Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Cent%20OS](https://img.shields.io/badge/Cent%20OS-262577?style=flat-square&logo=CentOS&logoColor=white)
+![Kali%20Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
 
-#### Languages - Libraries - Databases
+#### Languages - Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=flat-square&logo=powershell-white&logoColor=fff)
@@ -52,9 +52,6 @@ I am a cybersecurity, network/system administration and data analysis profession
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=flat-square&logo=matplotlib&logoColor=fff)
 ![Scrapy](https://img.shields.io/badge/scrapy-%2360a839.svg?style=flat-square&logo=scrapy&logoColor=d1d2d3)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
 
 #### IDE
