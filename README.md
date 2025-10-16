@@ -2,7 +2,7 @@
   
 # Hi there, I'm Leonardo
 <a href="mailto:lfgajdem@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/lfgajdemski/en" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
+<a href="https://linkedin.com/in/lfgajdemski/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
 </div>
 
 ## About Me
@@ -34,6 +34,8 @@ I am a cybersecurity, network/system administration and data analysis profession
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white">
 <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=flat-square&logo=virtualbox&logoColor=white" alt="virtualbox"/>
 </span>
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 
 #### Cybersecurity Tools
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
