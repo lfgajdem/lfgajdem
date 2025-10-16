@@ -22,7 +22,7 @@ I am a cybersecurity, network/system administration and data analysis profession
   - [Average yield of corn, wheat, oats and rye in Argentina (kg/ha) - Period 1923-2020](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/README.md)
 ---
 ## 🧰 Skills
-#### IT Infrastucture (Cloud - OS)
+#### IT Infrastructure (Cloud - OS)
 <span>
 <img src="https://custom-icon-badges.demolab.com/badge/Amazon-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white">  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
@@ -49,7 +49,7 @@ I am a cybersecurity, network/system administration and data analysis profession
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=flat-square&logo=matplotlib&logoColor=fff)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
