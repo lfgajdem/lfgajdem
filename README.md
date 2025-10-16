@@ -22,7 +22,7 @@ I am a cybersecurity, network/system administration and data analysis profession
   - [Average yield of corn, wheat, oats and rye in Argentina (kg/ha) - Period 1923-2020](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/README.md)
 ---
 ## 🧰 Skills
-#### IT Infrastucture (Cloud - OS - Servers)
+#### IT Infrastucture (Cloud - OS)
 <span>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
@@ -45,24 +45,21 @@ I am a cybersecurity, network/system administration and data analysis profession
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white")
 ![JavaScrip](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-#### 📚 Libraries
+#### Libraries
 
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=flat-square&logo=matplotlib&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 
 #### IDE
-<span>
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white">
-</span>
+![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
+![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
 
 <details>
 <summary>Soft Skills</summary>
