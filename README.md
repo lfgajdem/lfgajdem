@@ -2,7 +2,7 @@
   
 # Hi there, I'm Leonardo
 <a href="mailto:lfgajdem@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/lfgajdemski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/lfgajdemski/en" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" /></a>
 </div>
 
 ## About Me
@@ -38,7 +38,7 @@ I am a cybersecurity, network/system administration and data analysis profession
 #### Cybersecurity Tools
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
 
-#### Languages and Databases
+#### Languages - Libraries - Databases
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=flat-square&logo=powershell-white&logoColor=fff)
@@ -46,15 +46,12 @@ I am a cybersecurity, network/system administration and data analysis profession
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white")
 ![JavaScrip](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-#### Libraries
-
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
+![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 #### IDE
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white)
