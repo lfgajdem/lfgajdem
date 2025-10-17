@@ -36,7 +36,10 @@ I am a cybersecurity, network/system administration and data analysis profession
 ![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+
+#### Cybersecurity tools
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?&style=flat-square&logo=Wireshark&logoColor=white)
 
 #### Languages - Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
