@@ -64,13 +64,14 @@ I am a cybersecurity, network/system administration and data analysis profession
 <details>
 <summary>Soft Skills</summary>
 - Analytical Skills
-- Communication
+- Resilience
 - Critical Thinking
-- Diagnosis
 - Leadership
+- Diagnosis
 - Problem Solving
 - Process Optimization
 - Research
+- Communication
 - Teamwork
 - Troubleshooting
 </details>
